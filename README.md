@@ -2,7 +2,7 @@
                                                        
 ### Hi there 👋
 
-            ![giphy3](https://user-images.githubusercontent.com/86184935/138292815-89655e15-60c1-4781-ac0a-ff623501a7dc.gif)
+ ![giphy3](https://user-images.githubusercontent.com/86184935/138292815-89655e15-60c1-4781-ac0a-ff623501a7dc.gif)
 
 
 
