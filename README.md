@@ -13,8 +13,11 @@
 - 👯 I’m looking to collaborate on cool open source projects...
 - 💬 Ask me about webdev...
 - 📫 How to reach me: 
--                     LinkedIn - https://www.linkedin.com/in/attreyee-mukherjee-551b4221a/
--                     Twitter - https://twitter.com/twtamuk
--                     Instagram - https://www.instagram.com/__adormango/
+
+-https://www.linkedin.com/in/attreyee-mukherjee-551b4221a/
+
+-https://twitter.com/twtamuk
+
+-https://www.instagram.com/__adormango/
                       
 
