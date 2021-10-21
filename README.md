@@ -2,8 +2,8 @@
                                                        
 ### Hi there 👋
 
-            ![giphy3](https://user-images.githubusercontent.com/86184935/138292636-be86e4ca-1ec4-4e47-858f-99be4c5a08d5.gif)
-                      
+            ![giphy3](https://user-images.githubusercontent.com/86184935/138292815-89655e15-60c1-4781-ac0a-ff623501a7dc.gif)
+
 
 
 - 🔭 I’m currently working on WEBDEV...                                                                   
