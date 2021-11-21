@@ -8,11 +8,9 @@
 
 
 
-- 🔭 I’m currently working on WEBDEV...                                                                   
-- 🌱 I’m currently learning JS...
-- 👯 I’m looking to collaborate on cool open source projects...
-- 💬 Ask me about webdev...
-- 📫 How to reach me: 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-muk&show_icons=true&theme=radical)
+
+ 
 
 <a target="_blank" href="https://www.linkedin.com/in/attreyee-mukherjee-551b4221a/"><img src="https://img.icons8.com/dusk/50/000000/linkedin.png"></a>
 <a target="_blank" href="https://twitter.com/twtamuk"><img src="https://img.icons8.com/dusk/50/000000/twitter.png"></a>
