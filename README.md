@@ -21,9 +21,6 @@
 
 
  
-<h3 align="left">Connect with me:</h3>
-<a target="_blank" href="https://www.linkedin.com/in/attreyee-mukherjee-551b4221a/"><img src="https://img.icons8.com/dusk/50/000000/linkedin.png"></a>
-<a target="_blank" href="https://twitter.com/twtamuk"><img src="https://img.icons8.com/dusk/50/000000/twitter.png"></a>
-<a target="_blank" href="https://www.instagram.com/__adormango/"><img src="https://img.icons8.com/dusk/50/000000/instagram.png"></a>
+
                       
 
