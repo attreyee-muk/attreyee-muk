@@ -11,9 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
-
-- 🤝 I’m looking for help with **Web Dev**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **mukattreyee@gmail.com**
 
