@@ -42,7 +42,11 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-muk&show_icons=true&locale=en&layout=compact" alt="a-muk" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-muk&show_icons=true&locale=en" alt="a-muk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-muk&" alt="a-muk" /></p>
 
 
 
