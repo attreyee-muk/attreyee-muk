@@ -16,14 +16,16 @@
 - 📫 How to reach me **mukattreyee@gmail.com**
 
 - ⚡ Fun fact **I love History**
+</br>
+</br>
+<img  src="https://user-images.githubusercontent.com/86184935/147959332-a1548c5f-cb4d-43c8-8580-a95d708e1fd5.gif"></img>
 
-<img align="right" src="https://user-images.githubusercontent.com/86184935/147959332-a1548c5f-cb4d-43c8-8580-a95d708e1fd5.gif">
 
 <br>
 
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <br>
 <p align="left">
 <a href="https://twitter.com/twtamuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twtamuk" height="30" width="40" /></a>
